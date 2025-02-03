@@ -8,4 +8,4 @@
 ## Cuponera
 - [Repositorio Frontend Admin WEB](https://github.com/LivCodePeru/cuponera-tecsup-front)
 - [Repositorio Backend API](https://github.com/LivCodePeru/cuponera-tecsup-api)
-- [Repositorio Backend WEB](https://github.com/LivCodePeru/cuponera-tecsup-web)
+- [Repositorio Frontend WEB](https://github.com/LivCodePeru/cuponera-tecsup-web)
